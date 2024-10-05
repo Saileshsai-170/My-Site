@@ -1,7 +1,7 @@
 [10:20 pm, 5/10/2024] Gokul 411: <h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Sailesh Sai Padarthy</h1>
 
-![ammavaaru](https://github.com/user-attachments/assets/5876879f-9b66-41ff-9642-6537ed301cae)
-![images](https://github.com/user-attachments/assets/59d7c7f0-d421-42a2-954d-1e99d11ae527)
+
+![I WON'T DO IT](https://github.com/user-attachments/assets/d869acfa-eb41-492a-8467-17def52575a9)
 
 
 
