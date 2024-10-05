@@ -26,6 +26,6 @@ Currently a B.Tech student at IIIT Sri City. I'm all about tech, creativity, and
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Contact Me </h2>
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-Feel free to drop me an email at <a href="mailto:your.email@example.com" style="color: #2980b9;">your.email@example.com</a> or reach out on social media.
+Feel free to drop me an email at <a href="mailto:your.email@example.com" style="color: #2980b9;">ss.padarthy@gmail.com</a> or reach out on social media.
 </p>
 [10:21 pm, 5/10/2024] Gokul 411: <p style="font-family: Georgia, serif; text-align: center; color: #34495e;">Thanks for visiting!</p>
